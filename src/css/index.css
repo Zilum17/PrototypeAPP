@@ -1,0 +1,52 @@
+@font-face {
+  font-family: 'Montserrat';
+  src: url('/public/Montserrat.ttf') format('truetype');
+}
+
+:root{
+  --color1: #bd1c59;
+  --color2: #243349;
+  --color3: #141c27;
+  --color4: #F9F9F9;
+  --color5: #EAEAEA;
+  --color6: #7CB342;
+  --color7: #E53935;
+  --color8: #ffb300;
+}
+
+#root {
+  position: absolute;
+  min-width: 80rem;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Montserrat, sans-serif;
+}
+@font-face {
+  font-family: 'Montserrat';
+  src: url('/public/Montserrat.ttf') format('truetype');
+}
+
+:root{
+  --color1: #bd1c59;
+  --color2: #243349;
+  --color3: #141c27;
+  --color4: #F9F9F9;
+  --color5: #EAEAEA;
+  --color6: #7CB342;
+  --color7: #E53935;
+  --color8: #ffb300;
+}
+
+#root {
+  position: absolute;
+  min-width: 80rem;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Montserrat, sans-serif;
+}
